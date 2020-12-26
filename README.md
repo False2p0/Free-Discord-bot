@@ -2,10 +2,10 @@
 
 Its a Simple Discord Bot at the time you only can make embeds but changes are yet to come
 
-[1 How to install](https://github.com/False2p0/Simple-discord-Bot#how-to-install)
-[2 Errors](https://github.com/False2p0/Simple-discord-Bot#errors)
-[4 How To get your Token](https://github.com/False2p0/Simple-discord-Bot#how-to-get-your-token)
-[3 Commands](https://github.com/False2p0/Simple-discord-Bot#commands)
+[1 How to install](https://github.com/False2p0/Simple-discord-Bot#how-to-install)<br></br>
+[2 Errors](https://github.com/False2p0/Simple-discord-Bot#errors)<br></br>
+[4 How To get your Token](https://github.com/False2p0/Simple-discord-Bot#how-to-get-your-token)<br></br>
+[3 Commands](https://github.com/False2p0/Simple-discord-Bot#commands)<br></br>
 
 
 # How To install 
