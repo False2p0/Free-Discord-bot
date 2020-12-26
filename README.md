@@ -47,19 +47,20 @@ Discord : temQ False | Philippe#0001 <br></br>
 
 # Commands
 
-<prefix> is the coustem prefix default is *
+.prefix. is the coustem prefix default is *
 
 (Argument) argument in the comand 
 
 #### Commandname
   Userinput
 <br></br>
-#### <prefix>announce 
+#### .prefix.announce 
   Channel id <br></br>
   Announcement
 <br></br>
-#### <prefix>embed
+#### .prefix.embed
   Titel <br></br>
   description
+  
 <br></br>
-<prefix>setprefix (New Prefix) 
+.prefix.setprefix (New Prefix) 
