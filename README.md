@@ -53,13 +53,13 @@ Discord : temQ False | Philippe#0001 <br></br>
 
 #### Commandname
   Userinput
-
+<br></br>
 #### <prefix>announce 
   Channel id <br></br>
   Announcement
-  
+<br></br>
 #### <prefix>embed
   Titel <br></br>
   description
-  
+<br></br>
 <prefix>setprefix (New Prefix) 
