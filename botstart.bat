@@ -1,0 +1,3 @@
+python simple.py
+
+pause 
