@@ -32,7 +32,7 @@ Its a Simple Discord Bot at the time you only can make embeds but changes are ye
 #### 3. Copy your Token<br></br>
 ![image](https://cdn.discordapp.com/attachments/792392121641730078/792397553424400434/6.PNG)
 
-### Commands
+# Commands
 
 <prefix> is the coustem prefix default is *
 
