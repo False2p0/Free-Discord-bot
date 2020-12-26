@@ -26,7 +26,8 @@ Its a Simple Discord Bot at the time you only can make embeds but changes are ye
   its ready 
 
 #### 6. Invite the bot
-  https://discord.com/api/oauth2/authorize?client_id=<your client id>&permissions=8&scope=bot
+  Replace YOURID by your application id
+  https://discord.com/api/oauth2/authorize?client_id=YOURID&permissions=8&scope=bot
 
 # Errors
 
