@@ -1,10 +1,7 @@
 # Simple-discord-Bot
- _____  _                       _   ____        _   
-|  __ \(_)                     | | |  _ \      | |  
-| |  | |_ ___  ___ ___  _ __ __| | | |_) | ___ | |_ 
-| |  | | / __|/ __/ _ \| '__/ _` | |  _ < / _ \| __|
-| |__| | \__ \ (_| (_) | | | (_| | | |_) | (_) | |_ 
-|_____/|_|___/\___\___/|_|  \__,_| |____/ \___/ \__|
 
+Its a Simple Discord Bot at the time you only can make embeds but changes are yet to come
+
+## Commands
 
 # installing 
