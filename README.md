@@ -2,6 +2,12 @@
 
 Its a Simple Discord Bot at the time you only can make embeds but changes are yet to come
 
+[1 How to install](https://github.com/False2p0/Simple-discord-Bot#how-to-install)
+[2 Errors](https://github.com/False2p0/Simple-discord-Bot#errors)
+[4 How To get your Token](https://github.com/False2p0/Simple-discord-Bot#how-to-get-your-token)
+[3 Commands](https://github.com/False2p0/Simple-discord-Bot#commands)
+
+
 # How To install 
 
 #### 1. Install [Python](https://www.python.org/downloads/) <br></br>
@@ -24,7 +30,7 @@ Its a Simple Discord Bot at the time you only can make embeds but changes are ye
 
 ## Errors
 
-### How To get your Token
+# How To get your Token
 #### 1. Create a Application [Dev Portal](https://discord.com/developers/applications) <br></br>
 ![image](https://cdn.discordapp.com/attachments/792392121641730078/792397549906558986/4.PNG)
 #### 2. Create a Bot <br></br>
