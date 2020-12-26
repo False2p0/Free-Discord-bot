@@ -51,15 +51,15 @@ Discord : temQ False | Philippe#0001 <br></br>
 
 (Argument) argument in the comand 
 
-Commandname
+#### Commandname
   Userinput
 
-<prefix>announce 
-  Channel id 
+#### <prefix>announce 
+  Channel id <br></br>
   Announcement
   
 #### <prefix>embed
-  Titel
+  Titel <br></br>
   description
   
 <prefix>setprefix (New Prefix) 
