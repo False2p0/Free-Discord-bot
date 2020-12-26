@@ -1,3 +1,3 @@
-# Free-Discord-bot
+# Simple-discord-Bot
 
 # installing 
