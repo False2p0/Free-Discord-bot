@@ -31,9 +31,9 @@ Its a Simple Discord Bot at the time you only can make embeds but changes are ye
 # Errors
 
 Please send me your errors if you get one <br></br>
-<br></br>
+
 Discord : temQ False | Philippe#0001 <br></br>
-<br></br>
+
 [Twitter](https://twitter.com/temQ_False) : temQ_False
 
 # How To get your Token
