@@ -4,6 +4,8 @@ Its a Simple Discord Bot at the time you only can make embeds but changes are ye
 
 # How To install 
 
+1. Install [python](https://www.python.org/downloads/)
+
 
 ### Commands
 
