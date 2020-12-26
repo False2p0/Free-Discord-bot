@@ -1,1 +1,3 @@
-# Free-Discord-bot
+### Free-Discord-bot
+
+#installing 
