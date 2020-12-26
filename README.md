@@ -28,7 +28,13 @@ Its a Simple Discord Bot at the time you only can make embeds but changes are ye
 #### 6. Invite the bot
   https://discord.com/api/oauth2/authorize?client_id=<your client id>&permissions=8&scope=bot
 
-## Errors
+# Errors
+
+Please send me your errors if you get one <br></br>
+<br></br>
+Discord : temQ False | Philippe#0001 <br></br>
+<br></br>
+[Twitter](https://twitter.com/temQ_False) : temQ_False
 
 # How To get your Token
 #### 1. Create a Application [Dev Portal](https://discord.com/developers/applications) <br></br>
