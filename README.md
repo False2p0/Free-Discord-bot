@@ -58,7 +58,7 @@ Commandname
   Channel id 
   Announcement
   
-<prefix>embed
+#### <prefix>embed
   Titel
   description
   
