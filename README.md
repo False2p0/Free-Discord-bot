@@ -4,16 +4,16 @@ Its a Simple Discord Bot at the time you only can make embeds but changes are ye
 
 # How To install 
 
-1. Install [Python](https://www.python.org/downloads/) <br></br>
+#### 1. Install [Python](https://www.python.org/downloads/) <br></br>
 ![image](https://cdn.discordapp.com/attachments/792392121641730078/792392180085948416/1.PNG)
-2. Check pip <br></br>
+#### 2. Check pip <br></br>
 ![image](https://cdn.discordapp.com/attachments/792392121641730078/792392180651261962/2.PNG)
-3. Press Install<br></br>
+#### 3. Press Install<br></br>
 ![image](https://cdn.discordapp.com/attachments/792392121641730078/792392181398241320/3.PNG)
 
-4. Execuet Install.bat
+#### 4. Execuet Install.bat
   if the library are installed you need to input your Bot Token 
-  [How To get your Token]()
+  [How To get your Token](https://github.com/False2p0/Simple-discord-Bot#how-to-get-your-token)
 
 
 
