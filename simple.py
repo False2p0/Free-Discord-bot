@@ -5,7 +5,7 @@ import datetime
 import os
 import json
 
-with open("setting.txt", "r") as settings:
+with open("setting.0", "r") as settings:
     infos = settings.read()
 
 

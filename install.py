@@ -1,6 +1,6 @@
 TOKEN = input("Whats the Token of your Bot")
 
-with open("settings.txt","w") as SETT:
+with open("setting.0","w") as SETT:
     SETT.write(TOKEN)
 
 print(" d88888b d888888b d8b   db d888888b .d8888. db   db")
